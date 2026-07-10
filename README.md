@@ -1,3 +1,5 @@
+URL to Website: https://matchup-predictor--johnjoneshopkin.replit.app/ 
+
 # World Cup Match Forecast
 
 Predicts 2026 FIFA World Cup match scores for real, currently-scheduled fixtures, using a Poisson goal model trained on historical international match data plus this tournament's actual results.
